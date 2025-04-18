@@ -20,6 +20,9 @@
 # production
 /build
 
+# Firebase / secrets
+prepwise-e0b09-firebase-adminsdk-fbsvc-76b0cd8ef2.json
+
 # misc
 .DS_Store
 *.pem
